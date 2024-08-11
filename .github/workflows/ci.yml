@@ -31,4 +31,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: bvnjk/bev-project-f5-app1:$(date +%s)
+          tags: bvnjk/bev-project-f5-app1:latest
